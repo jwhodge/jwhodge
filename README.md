@@ -4,7 +4,7 @@ I've worked as a senior manager and creative producer in arts and entertainment 
 
 So when the pandemic shut down live entertainment, it left me with time to explore old interests. First, it was website development, WordPress and SEO. Then I found freeCodeCamp and got busy. 
 
-👀 I'm interested in web and UX design, so I started my studies there. However, I still discovering exactly which part of the code landscape gets me excited. 
+👀 I'm interested in web and UX design, so I started my studies there. However, I'm still discovering exactly which part of the code landscape gets me excited. 
 
 I'd also like to explore the field of data science. In my previous study, I examined many methods to analyse data, but the software and programming tools have developed immensely. So, I want to explore Python and its libraries in the future.  
 
