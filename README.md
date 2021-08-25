@@ -10,7 +10,7 @@ I'd also like to explore the field of data science. In my previous study, I exam
 
 I'm also a believer in open-source software and have run Linux on my desktop for over ten years.
 
-🌱 I'mI'm currently learning about frontend development libraries on freeCodeCamp. 
+🌱 I'm currently learning about frontend development libraries on freeCodeCamp. 
 
 This course follows courses in Responsive Web Design and Javascript Algorithms and Datastructures which I'veI've already completed. I'm aiming to work through their curriculum as a base for my studies. 
 
