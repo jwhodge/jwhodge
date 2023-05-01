@@ -4,15 +4,15 @@ I've worked as a senior manager and creative producer in arts and entertainment 
 
 So when the pandemic shut down live entertainment, it left me with time to explore old interests. First, it was website development, WordPress and SEO. Then I found freeCodeCamp and got busy. 
 
-👀 I'm interested in web and UX design, so I started my studies there. However, I'm still discovering exactly which part of the code landscape gets me excited. 
+👀 I'm interested in most frontend design and UX. I've enjoyed my work with React and other front-end libraries. Recently I've enjoyed using javascript with Google Apps Script web apps to link sheets, calendars and build a database for my current workplace.
 
 I'd also like to explore the field of data science. In my previous study, I examined many methods to analyse data, but the software and programming tools have developed immensely. So, I want to explore Python and its libraries in the future.  
 
 I'm also a believer in open-source software and have run Linux on my desktop for over ten years.
 
-🌱 I'm currently learning about frontend development libraries on freeCodeCamp. 
+🌱 I'm currently learning about Relational Databases on freeCodeCamp. This focusses on Bash scripting, SQL and Git.
 
-This course follows courses in Responsive Web Design and Javascript Algorithms and Datastructures which I'veI've already completed. I'm aiming to work through their curriculum as a base for my studies. 
+This course follows frontend courses which I've already completed. I'm aiming to work through their curriculum as a base for my studies. 
 
 💞️ I'm looking to collaborate on ... I'm not sure yet.
 
