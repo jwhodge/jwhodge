@@ -14,6 +14,8 @@ I'm also a believer in open-source software and have run Linux on my desktop for
 
 This course follows frontend courses which I've already completed. I'm aiming to work through their curriculum as a base for my studies. 
 
+See my projects so far: https://github.com/jwhodge/my-projects
+
 💞️ I'm looking to collaborate on ... I'm not sure yet.
 
 I'm still early in my journey, but I'm aware I can make many small contributions to open-source projects. I'd like that to be in my future reasonably soon. Hit me up.
